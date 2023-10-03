@@ -1,5 +1,14 @@
 Kʷak̓ʷala Change History
 ============================
+9.2.4 (5 Sep 2023)
+-------------------
+* Updated help to better match current layout
+* Changed to single code point output where possible
+* Simplified combining apostrophe rules for mobile layout
+
+9.2.3 (6 Mar 2023)
+-------------------
+* Fix FirstVoices website links
 
 9.2.2 (12 May 2022)
 -------------------

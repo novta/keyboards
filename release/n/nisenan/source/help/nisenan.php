@@ -38,4 +38,6 @@
 
 <p>The current version of the Nisenan Keyboard was developed by <b>Jonathan Geary (jgeary@ssband.org)</b>. Please contact Jonathan with any questions about the Nisenan Keyboard.
 
-<p>© 2022 Shingle Springs Band of Miwok Indians</p>
+<p>Please contact <b>the SSBMI Language Program (language@ssband.org)</b> with any questions or requests concerning the Nisenan language.</p>
+
+<p>© Shingle Springs Band of Miwok Indians</p>
